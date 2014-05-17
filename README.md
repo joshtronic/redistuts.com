@@ -1,2 +1,2 @@
-redistuts.github.io
-===================
+redistuts.com
+=============
